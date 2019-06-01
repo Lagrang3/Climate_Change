@@ -8,11 +8,12 @@ More than 85% of wetlands have been lost. More than 90% of ocean fish
 stocks are being harvested at or above sustainable levels.
 There are among claims made in a report published on May 6th by the 
 Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem
-Services, a big international quango..." [econ_11_05_2019]
+Services, a big international quango..." ![][econ_11_05_2019]
 
 ![](./ipbes_files/6_may_2019_fig.3.png)
 
 References:
+
 [econ_11_05_2019]: The Economist May 11th 2019.
 
 Repository:
