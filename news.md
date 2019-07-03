@@ -103,7 +103,9 @@ https://cancerofclimatechange.org/about/
 
 Source:
 https://www.theguardian.com/environment/2019/jun/27/doctors-against-climate-catastrophe
- 
+
+See also:
+- [The Lancet's Countdown report on health and climate change](./lancet_files/watts_2018.pdf)  
 
 ### June 10th, 2019. *Civil disobedience to stop ecocide*.
 
