@@ -1,3 +1,111 @@
+### July 3rd, 2019. *Doctors against climate catastrophe/ Dottori contro la catastrofe climatica*
+
+'We are qualified medical doctors united by our distress at the minimal
+response to looming environmental disaster.
+We sympathise with current widespread protest, notably by children who will
+be most affected. We urge government and
+media to respond immediately and proportionately.'
+
+Siamo medici professionisti uniti dalla sofferenza per la minima risposta
+verso
+la catrofe ambientale incombente.
+Simpatizziamo con la protesta attuale e diffusa, in particolare ad opera
+dei bambini che
+saranno i maggiormente colpiti. Chiediamo al governo di intervenire
+immediatamente e proporzionatamente.
+
+'As caring professionals we cannot countenance current policies that push
+the world’s most
+vulnerable towards environmental catastrophe. We are particularly alarmed
+by the effects of
+rising temperatures on health and heed predictions of societal collapse and
+consequent mass migration.
+Such collapse risks damage to physical and mental health on an
+unprecedented scale.'
+
+In quanto dediti professionisti, non possiamo tollerare le politiche
+correnti che stanno
+spingendo i più vulnerabili verso la catastrofe ambientale. Siamo
+particolarmente allarmati per
+l'effetto dell'aumento delle temperature sulla salute e prestiamo
+attenzione alle predizioni
+di collasso sociale e conseguenti migrazioni di massa.
+Tale collasso rischia di danneggiare la salute fisica e mentale su una
+scala senza precedenti.
+
+'Present policies and responses are woefully inadequate. The
+Intergovernmental Panel
+on Climate Change warns that we have only 11 years to halve global
+emissions to meet
+their 1.5C target, yet last year our global emissions rose yet again. It
+will be a massive
+task to avoid catastrophic warming and we need radical action now. Our
+unchecked consumption,
+dependence on fossil fuels and decimation of ecosystems continue.
+The diagnosis is clear and the treatment urgent. Yet politicians
+prevaricate and global emissions
+still rise.'
+
+Le politiche attuali e le risposte sono tristemente inadeguate.
+L'Interngovernmental Panel on Climate Change
+mette in guardia sul fatto che abbiamo solo 11 anni per dimezzare le
+emissioni globali al fine
+di ottenere l'obiettivo degli 1.5°C, eppure lo scorso anno le nostre
+emissioni globali sono di nuovo
+aumentate. Sarà un'impresa enorme evitare un riscaldamento catastrofico e
+abbiamo bisogno di un'azione radicale,
+ora. I nostri consumi incontrollati, la dipendeza dai combustibili fossili
+e la decimazione degli ecosistemi
+sta continuando.
+La diagnosi è chiara e la cura urgente. Tuttavia i politici prevaricano e
+le emissioni globali
+continuano ad aumentare.
+
+Governments abrogate their responsibility when pursuing grossly inadequate
+policies that
+risk environmental collapse. Non-violent direct action then becomes the
+reasonable choice for responsible individuals.
+
+I governi abrogano la loro responsabilità quando perseguono politiche
+inadeguate che stanno portando
+al rischio del collasso ambientale. L'azione diretta non-violenta allora
+diventa la scelta logica
+per individui responsabili.
+
+We support the following key demands, which parallel those made by
+Extinction Rebellion:
+• governments and media should be honest about the challenges and urgency
+of tackling ecological disaster;
+• governments should effect carbon neutrality within the IPCC timeframe;
+• governments should establish and be led by Citizens’ Assemblies to enable
+climate and ecological justice.
+
+Noi supportiamo le seguenti richieste chiave, che sono parallele a quelle
+fatte da Extincion Rebellion:
+- i governi e i media devono essere onesti riguardo alle sfide e
+all'urgenza di affrontare il disastro ecologico;
+- i governi devono mettere in atto la neutralità di carbonio entro i
+termini temporali dell'IPCC;
+- i governi devono stabilire ed essere guidati da delle Assemblee Cittadine
+per rendere possibile la giustizia
+climatica ed ecologica.
+
+Firmato da:
+James Underwood Past president, Royal College of Pathologists
+Professor John Middleton President, UK Faculty of Public Health
+Professor David Pencheon Honorary professor of health and sustainable
+development, University of Exeter, UK
+Dr Bing Jones Retired associate specialist in haematology
+Dr Terry Kemple Past president, Royal College of General Practitioners
+
+La lettera completa si trova su https://cancerofclimatechange.org/about/
+(Read the letter in full and more than 1,000 signatures at
+https://cancerofclimatechange.org/about/)
+
+Source:
+https://www.theguardian.com/environment/2019/jun/27/doctors-against-climate-catastrophe
+ 
+
 ### June 10th, 2019. *Civil disobedience to stop ecocide*.
 
 Roger Hallam, co-founder of *Extinction Rebellion*,
