@@ -74,10 +74,10 @@ per individui responsabili.
 
 We support the following key demands, which parallel those made by
 Extinction Rebellion:
-• governments and media should be honest about the challenges and urgency
+- governments and media should be honest about the challenges and urgency
 of tackling ecological disaster;
-• governments should effect carbon neutrality within the IPCC timeframe;
-• governments should establish and be led by Citizens’ Assemblies to enable
+- governments should effect carbon neutrality within the IPCC timeframe;
+- governments should establish and be led by Citizens’ Assemblies to enable
 climate and ecological justice.
 
 Noi supportiamo le seguenti richieste chiave, che sono parallele a quelle
@@ -91,16 +91,15 @@ per rendere possibile la giustizia
 climatica ed ecologica.
 
 Firmato da:
-James Underwood Past president, Royal College of Pathologists
-Professor John Middleton President, UK Faculty of Public Health
-Professor David Pencheon Honorary professor of health and sustainable
+- James Underwood Past president, Royal College of Pathologists
+- Professor John Middleton President, UK Faculty of Public Health
+- Professor David Pencheon Honorary professor of health and sustainable
 development, University of Exeter, UK
-Dr Bing Jones Retired associate specialist in haematology
-Dr Terry Kemple Past president, Royal College of General Practitioners
+- Dr Bing Jones Retired associate specialist in haematology
+- Dr Terry Kemple Past president, Royal College of General Practitioners
 
-La lettera completa si trova su https://cancerofclimatechange.org/about/
-(Read the letter in full and more than 1,000 signatures at
-https://cancerofclimatechange.org/about/)
+Read the letter in full and more than 1,000 signatures at/La lettera completa si trova su 
+https://cancerofclimatechange.org/about/
 
 Source:
 https://www.theguardian.com/environment/2019/jun/27/doctors-against-climate-catastrophe
