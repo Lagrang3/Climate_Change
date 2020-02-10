@@ -1,3 +1,74 @@
+### Novembre 17th, 2019. *Higher Tide*
+
+
+Exactly two months ago *The Economist* weekly newspaper (see [1]) 
+publised a Briefing entitled *The rising seas*.
+The main points of the article are:
+
+- 2/3 of the world's largest cities lie along the coast line,
+a billion people live no more than 10 meters above sea level;
+- Global mean sea level has been rising since 1993
+by a rate of 2.7mm to 3.5mm a year;
+- the IPCC report (see [2]) says GMSL rose by around 19cm in the
+20th Century;
+- in a +3C degree scenario thermal expansion alone
+would produce a GMSL rise between 60cm and 180cm by 2100 (from now?);
+- today's residual ice sheets are the equivalent 
+of less than 70m of sea level rise, 
+and the accelerating melting of the West Antartic
+ice sheets would add +3.5m to the GMSL by 2200.
+
+#### How's that possible
+
+Thermal expansion:
+Let *f=0.0001* be the volume change of water with
+the increase of one degree Celsius (see the physical properties of 
+water [5]),
+*V=1.35e18 m3* the volume of water on Earth's surface (from wikipedia),
+*R=6371 km* the mean radius of the Earth.
+We can compute the surface area *S=4 Pi R^2*,
+and the increase of water volume with one degree increase in temperature
+*dV = fV = 1.35e14 m3*, then we can cover the entire Earth surface with a 
+layer of *h=dV/S=26 cm*.
+
+
+Melting of inland ice:
+To get a rough estimate of how much this factor could
+affect the sea level rise in the future we can do a similar 
+calculation as in the previous paragraph,
+but use *dV* as the ammount of water that would be added
+to the world oceans if the inland ice melts.
+For instance Greenland harbors *dV = 2'850'000* cubic kilometers
+of ice. That volume of water is enough to cover
+Earth's surface with a layer of *h = dV/S = 5.6* meters high.
+Antarctica on the other hand
+contains *dV=26.5* million cubic kilometers of ice,
+which is equivalent to *h=dV/S=52* meters of water 
+over the entire Earth's surface.
+
+Astronomical tides, storm surges and sinking land
+can add up to make matters worse.
+That was the case for Venice's last flood
+on November 2019 [4], an kind of event which
+is ever more frequent:
+
+![](./scripts/acqua_alta.png)
+*Acque alte eccezionale a Venezia.*
+
+Repository:
+
+- [1]: [Economist 17-08-2018, Higher Tide](./economist_files/2019-08-17_Tide.pdf)
+
+References
+
+- [2]: [IPCC, 2018: Global Warming of 1.5°C.](https://www.ipcc.ch/sr15)
+- [3]: [DW The Climate Exodus](https://www.youtube.com/watch?v=cl4Uv9_7KJE)
+- [4]: [CBSN Venice flood](https://www.cbsnews.com/news/climate-change-blamed-for-higher-tides-creating-uncertainty-for-venices-canals-60-minutes-2020-01-12/)
+- [5]: [Wikipedia: Water](https://en.wikipedia.org/wiki/Properties_of_water)
+- [6]: [IPCC 2019: Special report on the Ocean and Cryosphere in a Changing Climage, Chapter 4](https://www.ipcc.ch/srocc/)
+- [7]: [Wikipedia: Acqua alta](https://it.wikipedia.org/wiki/Acqua_alta)
+
+
 ### July 3rd, 2019. *Doctors against climate catastrophe/ Dottori contro la catastrofe climatica*
 
 'We are qualified medical doctors united by our distress at the minimal
