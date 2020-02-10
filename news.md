@@ -18,6 +18,8 @@ of less than 70m of sea level rise,
 and the accelerating melting of the West Antartic
 ice sheets would add +3.5m to the GMSL by 2200.
 
+![](./economist_files/msl.png)
+
 #### How's that possible
 
 Thermal expansion:
